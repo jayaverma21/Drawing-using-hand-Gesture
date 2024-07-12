@@ -13,8 +13,8 @@ This project demonstrates an interactive application that allows drawing on the 
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/body-hand-drawing.git
-    cd body-hand-drawing
+    git clone https://github.com/jayaverma21/Drawing-using-hand-Gesture.git
+    cd Drawing-using-hand-Gesture
     ```
 
 2. Install the required packages:
